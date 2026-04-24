@@ -1,15 +1,16 @@
-Building trust and reputation infrastructure for AI agents.
+# Oleg Boiko
 
-I work on AgentVeil Protocol — reputation, verification, and trust surfaces for agent networks, with a focus on standards-based portability, cryptographic accountability, and operationally usable trust signals.
+Founder and Principal Architect, **AgentVeil Protocol** — trust, reputation, and verification infrastructure for AI agents.
 
-Site: [agentveil.dev](https://agentveil.dev)  
-Email: [ob@agentveil.dev](mailto:ob@agentveil.dev)
+Contact: [ob@agentveil.dev](mailto:ob@agentveil.dev)  
+Site: [agentveil.dev](https://agentveil.dev)
 
-## Building
+## Currently building
 
-- **[avp-sdk](https://github.com/creatorrmode-lead/avp-sdk)** — reputation and audit trail tooling for AI agents.
+- **[AgentVeil Protocol](https://agentveil.dev)** — reputation and trust infrastructure for AI agents, with signed verification artifacts and standards-based portability.
+- **[avp-sdk](https://github.com/creatorrmode-lead/avp-sdk)** — SDK for consuming AgentVeil reputation signals and audit-trail surfaces in agent systems.
 - **[paperclip-plugin-avp](https://github.com/creatorrmode-lead/paperclip-plugin-avp)** — trust and reputation layer for Paperclip agents via AgentVeil Protocol.
-- **AgentVeil Protocol** — portable reputation signals, signed verification artifacts, and trust infrastructure for agent ecosystems.
+- **[agentveil.dev](https://agentveil.dev)** — public protocol surface, verification endpoints, and research archive.
 
 ## Research
 
@@ -17,21 +18,18 @@ Email: [ob@agentveil.dev](mailto:ob@agentveil.dev)
 
 ## Focus
 
-Current areas of work:
-
 - reputation systems for AI agent networks
-- Sybil resistance and flow-based trust gating
+- flow-gated trust scoring and Sybil resistance
 - W3C Verifiable Credentials and `did:key`
-- signed verification artifacts and portable trust signals
-- practical trust infrastructure for multi-agent systems
+- signed verification artifacts for cross-org agent interactions
+- operational trust surfaces that are portable across runtimes
 
-## Selected Repositories
+## How I work
 
-- **[avp-sdk](https://github.com/creatorrmode-lead/avp-sdk)**
-- **[paperclip-plugin-avp](https://github.com/creatorrmode-lead/paperclip-plugin-avp)**
-- **[hermes-agent](https://github.com/creatorrmode-lead/hermes-agent)**
+I care more about verifiable trust surfaces than about reputation claims in prose. The work is standards-first where possible, operational where necessary, and conservative about what is published: SDKs and public interfaces are open, implementation-sensitive backend details stay protected.
 
-## Contact
+## Working with AgentVeil
 
 For integrations, pilot deployments, or technical evaluation of AgentVeil Protocol:  
 [ob@agentveil.dev](mailto:ob@agentveil.dev)
+
