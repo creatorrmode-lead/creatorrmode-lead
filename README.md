@@ -10,7 +10,6 @@ Site: [agentveil.dev](https://agentveil.dev)
 - **[AgentVeil Protocol](https://agentveil.dev)** — reputation and trust infrastructure for AI agents, with signed verification artifacts and standards-based portability.
 - **[avp-sdk](https://github.com/creatorrmode-lead/avp-sdk)** — SDK for consuming AgentVeil reputation signals and audit-trail surfaces in agent systems.
 - **[paperclip-plugin-avp](https://github.com/creatorrmode-lead/paperclip-plugin-avp)** — trust and reputation layer for Paperclip agents via AgentVeil Protocol.
-- **[agentveil.dev](https://agentveil.dev)** — public protocol surface, verification endpoints, and research archive.
 
 ## Research
 
